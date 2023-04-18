@@ -10,7 +10,7 @@
 
 and
 
-* followed by { Aa Oo Xx Yy Zz } gives { Åå Øø Ẋẋ Ẏẏ Żż };
+\* followed by { Aa Oo Xx Yy Zz } gives { Åå Øø Ẋẋ Ẏẏ Żż };
 
 but if any other character follows these symbols, it should immediately give the symbol followed by the character,
 instead of attempting to alter the character (i.e. it should do so without requiring either the space bar to be pressed between symbol and character,
